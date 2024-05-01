@@ -22,9 +22,6 @@
     "swig": "^1.4.2",
     "underscore": "^1.8.3"
   },
-  "comments": {
-    "//": "a9 insecure components"
-  },
   "scripts": {
     "start": "node server.js",
     "dev": "cross-env PORT=5000 nodemon",
